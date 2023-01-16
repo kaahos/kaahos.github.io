@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on kaahos&#39; Blog</title>
+    <link>https://kaahos.github.io/articles/</link>
+    <description>Recent content in Articles on kaahos&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2023 14:58:47 +0100</lastBuildDate><atom:link href="https://kaahos.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First 1</title>
+      <link>https://kaahos.github.io/articles/first/</link>
+      <pubDate>Mon, 16 Jan 2023 14:58:47 +0100</pubDate>
+      
+      <guid>https://kaahos.github.io/articles/first/</guid>
+      <description>Hello There General Kenobi ..</description>
+    </item>
+    
+  </channel>
+</rss>
