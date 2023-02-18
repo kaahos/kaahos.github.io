@@ -2,8 +2,9 @@
     <channel>
         <title>kaahos Website</title>
         <link>https://kaahos.github.io/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
+        <description>CyberSec, IT, made by kaahos.</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kaah0s@protonmail.com (kaahos)</managingEditor>
+            <webMaster>kaah0s@protonmail.com (kaahos)</webMaster>
             <atom:link href="https://kaahos.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
