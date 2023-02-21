@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>kaahos Website</title>
-        <link>https://kaahos.github.io/</link>
-        <description>CyberSec, IT, made by kaahos.</description>
+        <title>All Posts - kaahos Website</title>
+        <link>https://kaahos.github.io/posts/</link>
+        <description>All Posts | kaahos Website</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kaah0s@protonmail.com (kaahos)</managingEditor>
-            <webMaster>kaah0s@protonmail.com (kaahos)</webMaster><lastBuildDate>Mon, 20 Feb 2023 15:29:15 &#43;0100</lastBuildDate>
-            <atom:link href="https://kaahos.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>kaah0s@protonmail.com (kaahos)</webMaster><lastBuildDate>Mon, 20 Feb 2023 15:29:15 &#43;0100</lastBuildDate><atom:link href="https://kaahos.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Constructing a State Space Graph</title>
     <link>https://kaahos.github.io/state_space_graph/</link>
     <pubDate>Mon, 20 Feb 2023 15:29:15 &#43;0100</pubDate>
